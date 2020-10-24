@@ -24,7 +24,7 @@ Learn everything you need to about the subject of this `eBook` project.
 Chapter 1: Accustoming Yourself to Ruby 1
 [x] Item 01: Understand What Ruby Considers to Be True 1 
 [x] Item 02: Treat All Objects as If They Could Be nil 3 
-[ ] Item 03: Avoid Ruby’s Cryptic Perlisms 6 
+[x] Item 03: Avoid Ruby’s Cryptic Perlisms 6 
 [ ] Item 04: Be Aware That Constants Are Mutable 9 
 [ ] Item 05: Pay Attention to Run-Time Warnings 12
 
