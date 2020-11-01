@@ -25,11 +25,11 @@ Chapter 1: Accustoming Yourself to Ruby 1
 [x] Item 01: Understand What Ruby Considers to Be True 1 
 [x] Item 02: Treat All Objects as If They Could Be nil 3 
 [x] Item 03: Avoid Ruby’s Cryptic Perlisms 6 
-[ ] Item 04: Be Aware That Constants Are Mutable 9 
-[ ] Item 05: Pay Attention to Run-Time Warnings 12
+[x] Item 04: Be Aware That Constants Are Mutable 9 
+[x] Item 05: Pay Attention to Run-Time Warnings 12
 
 Chapter 2: Classes, Objects, and Modules 17
-[ ] Item 06: Know How Ruby Builds Inheritance Hierarchies 17 
+[x] Item 06: Know How Ruby Builds Inheritance Hierarchies 17 
 [ ] Item 07: Be Aware of the Different Behaviors of super 24 
 [ ] Item 08: Invoke super When Initializing Subclasses 28 
 [ ] Item 09: Be Alert for Ruby’s Most Vexing Parse 31 
