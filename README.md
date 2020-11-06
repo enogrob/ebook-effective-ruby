@@ -30,8 +30,8 @@ Chapter 1: Accustoming Yourself to Ruby 1
 
 Chapter 2: Classes, Objects, and Modules 17
 [x] Item 06: Know How Ruby Builds Inheritance Hierarchies 17 
-[ ] Item 07: Be Aware of the Different Behaviors of super 24 
-[ ] Item 08: Invoke super When Initializing Subclasses 28 
+[x] Item 07: Be Aware of the Different Behaviors of super 24 
+[x] Item 08: Invoke super When Initializing Subclasses 28 
 [ ] Item 09: Be Alert for Ruby’s Most Vexing Parse 31 
 [ ] Item 10: Prefer Struct to Hash for Structured Data 35
 [ ] Item 11: Create Namespaces by Nesting Code in Modules 38 
