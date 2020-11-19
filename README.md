@@ -34,7 +34,7 @@ Chapter 2: Classes, Objects, and Modules 17
 [x] Item 08: Invoke super When Initializing Subclasses 28 
 [x] Item 09: Be Alert for Ruby’s Most Vexing Parse 31 
 [x] Item 10: Prefer Struct to Hash for Structured Data 35
-[ ] Item 11: Create Namespaces by Nesting Code in Modules 38 
+[x] Item 11: Create Namespaces by Nesting Code in Modules 38 
 [ ] Item 12: Understand the Different Flavors of Equality 43
 [ ] Item 13: Implement Comparison via “<=>” and the Comparable Module 49 
 [ ] Item 14: Share Private State through Protected Methods 53 
