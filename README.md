@@ -35,7 +35,7 @@ Chapter 2: Classes, Objects, and Modules 17
 [x] Item 09: Be Alert for Ruby’s Most Vexing Parse 31 
 [x] Item 10: Prefer Struct to Hash for Structured Data 35
 [x] Item 11: Create Namespaces by Nesting Code in Modules 38 
-[ ] Item 12: Understand the Different Flavors of Equality 43
+[x] Item 12: Understand the Different Flavors of Equality 43
 [ ] Item 13: Implement Comparison via “<=>” and the Comparable Module 49 
 [ ] Item 14: Share Private State through Protected Methods 53 
 [ ] Item 15: Prefer Class Instance Variables to Class Variables 55viii Contents
