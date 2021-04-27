@@ -38,7 +38,7 @@ Chapter 2: Classes, Objects, and Modules 17
 [x] Item 12: Understand the Different Flavors of Equality 43
 [x] Item 13: Implement Comparison via “<=>” and the Comparable Module 49 
 [x] Item 14: Share Private State through Protected Methods 53 
-[ ] Item 15: Prefer Class Instance Variables to Class Variables 55viii Contents
+[x] Item 15: Prefer Class Instance Variables to Class Variables 55viii Contents
 
 Chapter 3: Collections 59
 [ ] Item 16: Duplicate Collections Passed as Arguments before Mutating Them 59
