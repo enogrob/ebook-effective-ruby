@@ -44,7 +44,7 @@ Chapter 3: Collections 59
 [x] Item 16: Duplicate Collections Passed as Arguments before Mutating Them 59
 [x] Item 17: Use the Array Method to Convert nil and Scalar Objects into Arrays 63
 [x] Item 18: Consider Set for Efficient Element Inclusion Checking 66
-[ ] Item 19: Know How to Fold Collections with reduce 70
+[x] Item 19: Know How to Fold Collections with reduce 70
 [ ] Item 20: Consider Using a Default Hash Value 74
 [ ] Item 21: Prefer Delegation to Inheriting from Collection Classes 79
 
